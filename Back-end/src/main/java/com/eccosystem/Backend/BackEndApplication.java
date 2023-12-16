@@ -1,13 +1,13 @@
-package br.com.eccosystem.eccosystem;
+package com.eccosystem.Backend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class EccosystemApplication {
+public class BackEndApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(EccosystemApplication.class, args);
+		SpringApplication.run(BackEndApplication.class, args);
 	}
 
 }

@@ -1,10 +1,10 @@
-package br.com.eccosystem.eccosystem;
+package com.eccosystem.Backend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class EccosystemApplicationTests {
+class BackEndApplicationTests {
 
 	@Test
 	void contextLoads() {
